@@ -8,7 +8,12 @@ The coding language used for `read_email.py` is Python 3.
 Make sure that you have the required packages installed:
     ```pip install imap-tools pyyaml```
 - The environment used for testing and optimizing the script is WSL. A remote connection has been established in order to run the script.
-- The program reads login credentials from `creds.yml` file. PyYAML is used to securely store credentials in the YAML file.
+- The program reads login credentials from `creds.yml` file.
+- The YAML file is structured like this:
+    ```# creds.yml (not included in the repository for security reasons — you must create this file)
+        user: your-email@gmail.com
+        password: your-app-password
+- PyYAML is used to securely store credentials in the YAML file.
 - The login password was obtained using Google's App Passwords section. From security reasons, the YAML file is excluded with .gitignore
 - The library used for connecting to the Gmail inbox and handling the emails is **imap-tools**. The program fetches the most recent n = limit emails (n is manually configured to 3000).
 - Then, it iterates through these emails, filtering them based on the sender's address, subject, or body (based on keywords such as "linkedin", "aliexpress", "application was viewed", etc.)
