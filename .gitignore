@@ -1,0 +1,6 @@
+# Ignore credential and log files
+creds.yml
+*.log
+__pycache__/
+*.pyc
+.env

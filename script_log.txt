@@ -1,0 +1,131 @@
+Traceback (most recent call last):
+  File "/mnt/d/gmail_reader/read_email.py", line 1, in <module>
+    from imap_tools import MailBox
+ModuleNotFoundError: No module named 'imap_tools'
+Traceback (most recent call last):
+  File "/mnt/d/gmail_reader/read_email.py", line 1, in <module>
+    from imap_tools import MailBox
+ModuleNotFoundError: No module named 'imap_tools'
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+'"C:\Users\PC\miniconda3\envs\rapids-23.12\Lib\venv\scripts\nt"' is not recognized as an internal or external command,
+operable program or batch file.
+Traceback (most recent call last):
+  File "D:\gmail_reader\read_email.py", line 1, in <module>
+    from imap_tools import MailBox
+ModuleNotFoundError: No module named 'imap_tools'
+Traceback (most recent call last):
+  File "D:\gmail_reader\read_email.py", line 2, in <module>
+    import yaml
+ModuleNotFoundError: No module named 'yaml'
+Traceback (most recent call last):
+  File "D:\gmail_reader\read_email.py", line 4, in <module>
+    with open("creds.yml") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'creds.yml'
+Matched: 2827 jobs-noreply@linkedin.com
+Deleting emails...
+Total emails deleted: 1
+Total emails deleted: 0
+Matched: 2828 jobalerts-noreply@linkedin.com
+Deleting emails...
+Total emails deleted: 1
+Matched: 2829 jobalerts-noreply@linkedin.com
+Matched: 2830 jobalerts-noreply@linkedin.com
+Matched: 2831 jobalerts-noreply@linkedin.com
+Matched: 2833 ae-report-info05.a4@mail.aliexpress.com
+Matched: 2834 ae-report-info05.a0@mail.aliexpress.com
+Matched: 2835 fidelitate@communication.sephora-info-ro.com
+Matched: 2836 jobalerts-noreply@linkedin.com
+Matched: 2837 jobalerts-noreply@linkedin.com
+Matched: 2838 jobalerts-noreply@linkedin.com
+Matched: 2839 jobs-noreply@linkedin.com
+Matched: 2840 jobalerts-noreply@linkedin.com
+Deleting emails...
+Total emails deleted: 11
+Matched: 2841 jobs-noreply@linkedin.com
+Matched: 2842 ae-report-info05.a4@mail.aliexpress.com
+Matched: 2843 jobalerts-noreply@linkedin.com
+Deleting emails...
+Total emails deleted: 3
+Matched: 2844 jobalerts-noreply@linkedin.com
+Matched: 2845 jobalerts-noreply@linkedin.com
+Matched: 2846 ae-report-info05.a4@mail.aliexpress.com
+Matched: 2847 ae-report-info05.a0@mail.aliexpress.com
+Matched: 2848 jobalerts-noreply@linkedin.com
+Deleting emails...
+Total emails deleted: 5
+Matched: 2849 jobalerts-noreply@linkedin.com
+Matched: 2850 jobs-noreply@linkedin.com
+Matched: 2851 jobs-noreply@linkedin.com
+Matched: 2852 jobs-noreply@linkedin.com
+Matched: 2853 jobs-noreply@linkedin.com
+Matched: 2854 jobs-noreply@linkedin.com
+Matched: 2856 jobs-noreply@linkedin.com
+Matched: 2857 jobs-noreply@linkedin.com
+Matched: 2858 jobs-noreply@linkedin.com
+Matched: 2859 jobs-noreply@linkedin.com
+Matched: 2861 jobalerts-noreply@linkedin.com
+Matched: 2862 jobs-noreply@linkedin.com
+Matched: 2865 no-reply@career.worldline.com
+Matched: 2866 no-reply@career.worldline.com
+Matched: 2867 jobs-noreply@linkedin.com
+Matched: 2868 jobs-noreply@linkedin.com
+Matched: 2869 jobs-noreply@linkedin.com
+Matched: 2870 jobs-noreply@linkedin.com
+Matched: 2871 jobs-noreply@linkedin.com
+Matched: 2873 jobs-noreply@linkedin.com
+Matched: 2874 jobs-noreply@linkedin.com
+Matched: 2875 jobs-noreply@linkedin.com
+Matched: 2876 jobs-noreply@linkedin.com
+Matched: 2877 jobs-noreply@linkedin.com
+Matched: 2878 jobs-noreply@linkedin.com
+Matched: 2879 jobs-noreply@linkedin.com
+Matched: 2880 jobs-noreply@linkedin.com
+Matched: 2881 jobs-noreply@linkedin.com
+Matched: 2883 jobs-noreply@linkedin.com
+Matched: 2884 jobs-noreply@linkedin.com
+Matched: 2885 jobs-noreply@linkedin.com
+Matched: 2886 jobs-noreply@linkedin.com
+Matched: 2887 updates-noreply@linkedin.com
+Matched: 2888 jobs-noreply@linkedin.com
+Matched: 2889 ae-report-info05.a4@mail.aliexpress.com
+Matched: 2890 jobs-noreply@linkedin.com
+Matched: 2891 jobs-noreply@linkedin.com
+Matched: 2892 No-reply@e-consent.m.luxoft.com
+Matched: 2895 jobalerts-noreply@linkedin.com
+Matched: 2897 jobalerts-noreply@linkedin.com
+Matched: 2898 m.costin@dxc.com
+Matched: 2900 jobalerts-noreply@linkedin.com
+Matched: 2901 jobalerts-noreply@linkedin.com
+Matched: 2902 No-reply@e-consent.m.luxoft.com
+Matched: 2903 ae-report-info05.a4@mail.aliexpress.com
+Matched: 2905 jobs-noreply@linkedin.com
+Matched: 2906 ae-report-info05.a0@mail.aliexpress.com
+Matched: 2907 jobalerts-noreply@linkedin.com
+Matched: 2908 fidelitate@communication.sephora-info-ro.com
+Matched: 2909 jobs-noreply@linkedin.com
+Matched: 2910 jobs-noreply@linkedin.com
+Matched: 2911 jobs-noreply@linkedin.com
+Matched: 2912 jobs-noreply@linkedin.com
+Matched: 2913 jobs-noreply@linkedin.com
+Matched: 2914 jobs-noreply@linkedin.com
+Matched: 2915 jobs-noreply@linkedin.com
+Deleting emails...
+Total emails deleted: 56
+Matched: 2916 jobs-noreply@linkedin.com
+Matched: 2917 jobs-noreply@linkedin.com
+Matched: 2918 jobs-noreply@linkedin.com
+Matched: 2919 jobs-noreply@linkedin.com
+Matched: 2920 jobs-noreply@linkedin.com
+Matched: 2921 jobs-noreply@linkedin.com
+Matched: 2923 jobalerts-noreply@linkedin.com
+Matched: 2924 noreply@autovit.ro
+Matched: 2925 jobalerts-noreply@linkedin.com
+Matched: 2926 jobs-noreply@linkedin.com
+Matched: 2927 jobalerts-noreply@linkedin.com
+Matched: 2928 ae-report-info05.a4@mail.aliexpress.com
+Matched: 2930 jobalerts-noreply@linkedin.com
+Deleting emails...
+Total emails deleted: 13
