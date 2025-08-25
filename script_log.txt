@@ -129,3 +129,28 @@ Matched: 2928 ae-report-info05.a4@mail.aliexpress.com
 Matched: 2930 jobalerts-noreply@linkedin.com
 Deleting emails...
 Total emails deleted: 13
+Matched: 2931 jobalerts-noreply@linkedin.com
+Matched: 2932 jobs-noreply@linkedin.com
+Matched: 2933 jobalerts-noreply@linkedin.com
+Matched: 2934 ae-report-info05.a4@mail.aliexpress.com
+Matched: 2935 no-reply@hire.lever.co
+Matched: 2936 jobalerts-noreply@linkedin.com
+Matched: 2937 jobs-noreply@linkedin.com
+Matched: 2939 jobs-noreply@linkedin.com
+Matched: 2940 jobs-noreply@linkedin.com
+Matched: 2941 jobs-noreply@linkedin.com
+Matched: 2942 jobs-listings@linkedin.com
+Matched: 2943 updates-noreply@linkedin.com
+Matched: 2944 jobalerts-noreply@linkedin.com
+Matched: 2945 fidelitate@communication.sephora-info-ro.com
+Matched: 2946 noreply@foryou.c-and-a.com
+Deleting emails...
+Total emails deleted: 15
+Matched: 2947 jobalerts-noreply@linkedin.com
+Matched: 2948 ae-report-info05.a4@mail.aliexpress.com
+Matched: 2949 jobs-noreply@linkedin.com
+Matched: 2950 info.romania@mail-cee.greenpeace.org
+Matched: 2951 updates-noreply@linkedin.com
+Matched: 2953 jobalerts-noreply@linkedin.com
+Deleting emails...
+Total emails deleted: 6
